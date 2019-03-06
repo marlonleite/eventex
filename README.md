@@ -17,7 +17,7 @@ cd wttd
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-cp contrib/env-sample .env
+cp contrib/env-sample .env``
 python manage.py test
 ```
 
@@ -29,7 +29,6 @@ python manage.py test
 4. Defina o DEBUG=False
 5. Configure o serviço de email
 6. Envie o código para o heroku
-
 
 ````console
 heroku create minhainstancia
