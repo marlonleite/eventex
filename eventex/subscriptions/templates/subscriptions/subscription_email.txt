@@ -1,0 +1,15 @@
+Olá! Tudo bem?
+
+Muito obrigado lorem ipsum
+
+Estes foram os dados:
+Nome: {{ name }}
+CPF: {{ cpf }}
+Email: {{ email }}
+Telefone: {{ phone }}
+
+Responderemos em breve
+
+Atenciosamente,
+--
+Morena
