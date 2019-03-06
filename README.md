@@ -2,6 +2,8 @@
 
 Sistema de eventos encomendado pela morena.
 
+[![Build Status](https://travis-ci.org/marlonleite/eventex.svg?branch=master)](https://travis-ci.org/marlonleite/eventex)
+
 ## Como Desenvolver?
 
 1. Clone o repositório.
